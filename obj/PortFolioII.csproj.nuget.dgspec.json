@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\belai\\OneDrive\\Bureau\\c#\\MVC-I\\PortFolioII\\PortFolioII.csproj": {}
+    "C:\\Users\\belai\\OneDrive\\Bureau\\c#\\MVC-I\\PortFolioII\\PortFolioII.csproj": {}
   },
   "projects": {
-    "c:\\Users\\belai\\OneDrive\\Bureau\\c#\\MVC-I\\PortFolioII\\PortFolioII.csproj": {
+    "C:\\Users\\belai\\OneDrive\\Bureau\\c#\\MVC-I\\PortFolioII\\PortFolioII.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\belai\\OneDrive\\Bureau\\c#\\MVC-I\\PortFolioII\\PortFolioII.csproj",
+        "projectUniqueName": "C:\\Users\\belai\\OneDrive\\Bureau\\c#\\MVC-I\\PortFolioII\\PortFolioII.csproj",
         "projectName": "PortFolioII",
-        "projectPath": "c:\\Users\\belai\\OneDrive\\Bureau\\c#\\MVC-I\\PortFolioII\\PortFolioII.csproj",
+        "projectPath": "C:\\Users\\belai\\OneDrive\\Bureau\\c#\\MVC-I\\PortFolioII\\PortFolioII.csproj",
         "packagesPath": "C:\\Users\\belai\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\belai\\OneDrive\\Bureau\\c#\\MVC-I\\PortFolioII\\obj\\",
+        "outputPath": "C:\\Users\\belai\\OneDrive\\Bureau\\c#\\MVC-I\\PortFolioII\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\belai\\AppData\\Roaming\\NuGet\\NuGet.Config"

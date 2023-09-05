@@ -8,9 +8,13 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PortFolioII
 build_property.RootNamespace = PortFolioII
-build_property.ProjectDir = c:\Users\belai\OneDrive\Bureau\c#\MVC-I\PortFolioII\
+build_property.ProjectDir = C:\Users\belai\OneDrive\Bureau\c#\MVC-I\PortFolioII\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\Users\belai\OneDrive\Bureau\c#\MVC-I\PortFolioII
+build_property.MSBuildProjectDirectory = C:\Users\belai\OneDrive\Bureau\c#\MVC-I\PortFolioII
 build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/belai/OneDrive/Bureau/c\#/MVC-I/PortFolioII/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
